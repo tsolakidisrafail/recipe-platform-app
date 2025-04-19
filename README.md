@@ -50,3 +50,26 @@
 * [npm](https://www.npmjs.com/) (Συνήθως έρχεται με το Node.js)
 * [Git](https://git-scm.com/)
 * Μια εγκατάσταση MongoDB (τοπική ή cloud όπως το MongoDB Atlas)
+
+### Εγκατάσταση
+
+1. **Κλωνοποίηση του Repository:**
+
+   ```bash
+   git clone https://github.com/tsolakidisrafail/recipe-platform-app.git
+   cd recipe-platform-app
+   ```
+
+2. **Εγκατάσταση Εξαρτήσεων Backend:**
+
+   ```bash
+   cd server
+   npm install
+   ```
+
+3. **Εγκατάσταση Εξαρτήσεων Frontend:**
+
+   ```bash
+   cd ../client
+   npm install
+   ```
