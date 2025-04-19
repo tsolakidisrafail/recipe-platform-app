@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"tailwindCSS.rootSelector": "client",
+		"tailwindCSS.experimental.configFile": "client/tailwind.config.js",
+		"tailwindCSS.includeLanguages": {
+			"css": "css"
+		},
+
+		"files.associations": {
+			"*.css": "tailwindcss"
+		},
+		"editor.quickSuggestions": {
+			"strings": "on"
+		}
+	}
+}
